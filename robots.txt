@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://med-beyond-bounds.github.io/medbeyondbounds.github.io/sitemap.xml
+
